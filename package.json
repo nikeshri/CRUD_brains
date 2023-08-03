@@ -1,10 +1,10 @@
 {
-  "homepage": "http://nikeshri.github.io/CRUD_brains",
-  "name": "hellop",
+  "homepage": "https://nikeshri.github.io/CRUD_brains",
+  "name": "react-crud-application",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-    "scripts": {
+  "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -12,7 +12,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "keywords": ["crud"],
+  "keywords": [
+    "crud"
+  ],
   "author": "Nikesh mishra",
   "license": "",
   "dependencies": {
