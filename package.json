@@ -1,6 +1,7 @@
 {
-  "homepage": "https://nikeshri.github.io/CRUD_brains",
+  
   "name": "react-crud-application",
+  "homepage": "https://nikeshri.github.io/CRUD_brains",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
