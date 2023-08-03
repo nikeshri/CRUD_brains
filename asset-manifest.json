@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nikeshri/CRUD_brains/static/css/main.da687447.css",
-    "main.js": "/nikeshri/CRUD_brains/static/js/main.19323758.js",
-    "index.html": "/nikeshri/CRUD_brains/index.html",
-    "main.da687447.css.map": "/nikeshri/CRUD_brains/static/css/main.da687447.css.map",
-    "main.19323758.js.map": "/nikeshri/CRUD_brains/static/js/main.19323758.js.map"
+    "main.css": "/CRUD_brains/static/css/main.da687447.css",
+    "main.js": "/CRUD_brains/static/js/main.19323758.js",
+    "index.html": "/CRUD_brains/index.html",
+    "main.da687447.css.map": "/CRUD_brains/static/css/main.da687447.css.map",
+    "main.19323758.js.map": "/CRUD_brains/static/js/main.19323758.js.map"
   },
   "entrypoints": [
     "static/css/main.da687447.css",
